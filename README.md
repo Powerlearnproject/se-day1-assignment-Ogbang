@@ -5,14 +5,11 @@ SE_Day1_Assignment
 
 1.Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
-
 - Software engineering enables the creation of new technologies and products, as well as software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare; through structured and systematic software development processes, software engineers can create solutions that power advancements in fields like artificial intelligence, machine learning, big data, cloud computing, and the Internet of Things.
 - Software engineers design systems that are not only functional but also scalable, robust, and able to handle high loads without compromising performance. 
 - Software engineering allows companies to automate complex tasks and solve problems more efficiently.
 - Software engineers are responsible for maintaining, updating, and refactoring existing software systems to meet the changing needs of businesses and users, which ensures long-term sustainability and relevance.
 - Software engineers are responsible for implementing robust security measures to protect systems and users from cyber threats.
-
-Identify and describe at least three key milestones in the evolution of software engineering.
 
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
