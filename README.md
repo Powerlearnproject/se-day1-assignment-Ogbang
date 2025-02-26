@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
 Importance
 - Software engineering enables the creation of new technologies and products, as well as software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare; through structured and systematic software development processes, software engineers can create solutions that power advancements in fields like artificial intelligence, machine learning, big data, cloud computing, and the Internet of Things
@@ -18,12 +19,14 @@ Importance
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 - Development of programming languages: The 1950s saw the advent of early computers, and software engineering began with the development of machine-level programming languages such as Assembly, and high-level programming languages like Fortran and COBOL.
 - Establishment of software engineering as a discipline in the 1960s: As software complexity increased, the term "software crisis" was coined at the NATO Software Engineering Conference in 1968, highlighting the challenges in managing large, complex software projects; this marked the need for systematic approaches to software development, which led to the emergence of software engineering as a discipline.
 - Advent of structured programming in the 1970s: Pioneered by developers like Edsger Dijkstra, structured programming aimed to improve software clarity and reduce errors, the use of control structures such as loops, conditionals, instead of the unstructured "goto" command led to more maintainable and reliable software; the development of structured programming languages like C in the early 1970s played a key role in shaping modern programming practices and software design.
 - Emergence of Software Engineering Methodologies: The Waterfall model, introduced in the 1970s but popularized in the 1990s, was one of the first formalized software development methodologies; it advocated a linear, sequential approach to software development, which made it easier to plan and manage projects; as software projects grew in size and complexity, the limitations of Waterfall became apparent, and the Agile movement emerged in the late 1990s, emphasizing iterative development, flexibility, and collaboration; Agile frameworks like Scrum and XP provided structured yet flexible ways to manage development cycles, leading to faster delivery of high-quality software and more collaboration between developers and stakeholders.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 - Planning: The planning phase is the first step, where the project goals, scope, and requirements are defined; this is the foundation for the entire project.
 - Design: This phase focuses on creating the architecture of the software and defining how the system will function.
 - Development (Implementation): This is the actual coding or programming phase where the software is built based on the design.
@@ -52,6 +55,7 @@ Best Scenarios for Agile:
 - Cross-functional teamwork and frequent iteration – E.g., developing a SaaS (Software as a Service) product where continuous updates are needed.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer:
 Responsible for designing, coding, and maintaining software applications.
 Key Responsibilities:
@@ -84,6 +88,7 @@ Key Responsibilities:
 -	Ensuring project documentation and reporting for stakeholders and upper management.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environment (IDE) is a software application that provides a comprehensive set of tools to facilitate software development.
 Importance:
 -	Code Writing & Editing: IDEs provide intelligent code completion, syntax highlighting, and debugging features that help developers write better code.
@@ -111,6 +116,7 @@ Examples:
 -	Perforce – Commonly used in large enterprises and game development for handling massive codebases.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 1. Dealing with Legacy Code
 Challenge:
 -	Outdated, poorly documented, or complex codebases make it difficult to modify or extend functionality.
@@ -162,6 +168,7 @@ Strategies:
 -	Implement caching, efficient algorithms, and database indexing as needed.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Testing is a crucial part of software quality assurance (QA) to ensure that applications function correctly, meet requirements, and provide a good user experience. Below are the four key types of testing:
 1. Unit Testing: Unit testing involves testing individual components or functions of the software in isolation, and is typically written and executed by developers using frameworks like JUnit (Java), PyTest (Python), or Jest (JavaScript).
 Importance:
@@ -192,9 +199,11 @@ Importance:
 Example:
 A retail company tests a new Point of Sale (POS) system in a store environment to confirm usability and reliability before rollout.
 
+
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering is the practice of designing and optimizing input prompts to effectively interact with AI models, such as large language models (LLMs) like ChatGPT. It involves structuring queries or instructions in a way that guides the AI to generate accurate, relevant, and high-quality responses.
 Importance of Prompt Engineering in AI Interactions
 1. Enhances Response Quality
@@ -215,6 +224,7 @@ Importance of Prompt Engineering in AI Interactions
 - In research: Refining AI queries for data analysis and summarization.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Example of a Vague Prompt:
 "Make a painting of a man"
 Improved Prompt:
