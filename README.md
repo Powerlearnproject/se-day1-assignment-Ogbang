@@ -227,9 +227,11 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 Example of a Vague Prompt:
 "Make a painting of a man"
+
 Improved Prompt:
 "Make a full figure painting of a man in his early 30s, with a mustache, wearing a black suit and red tie on a white T-shirt, with a bright blue sky and bright sun in the background"
+
 Why the Improved Prompt is More Effective:
-Clearer Scope – it specifies that the response should focus on the full length of a man in his late 30s.
-More Specific – it requests what the features should look like, including what he should be wearing and their colour, and what should be in the background of the painting rather than a broad, unfocused instruction.
-Concise and Direct – it removes ambiguity, ensuring the AI generates a relevant and informative response.
+- Clearer Scope – it specifies that the response should focus on the full length of a man in his late 30s.
+- More Specific – it requests what the features should look like, including what he should be wearing and their colour, and what should be in the background of the painting rather than a broad, unfocused instruction.
+- Concise and Direct – it removes ambiguity, ensuring the AI generates a relevant and informative response.
