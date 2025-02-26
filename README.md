@@ -3,7 +3,7 @@ SE_Day1_Assignment
 
 #Part 1: Introduction to Software Engineering
 
-1.Explain what software engineering is and discuss its importance in the technology industry.
+1. Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
 - Software engineering enables the creation of new technologies and products, as well as software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare; through structured and systematic software development processes, software engineers can create solutions that power advancements in fields like artificial intelligence, machine learning, big data, cloud computing, and the Internet of Things.
 - Software engineers design systems that are not only functional but also scalable, robust, and able to handle high loads without compromising performance. 
@@ -13,7 +13,7 @@ Software engineering is the systematic application of engineering principles, me
 - Software engineers develop applications designed to improve collaboration, whether through communication tools, project management software, or file-sharing platforms, making it easier for teams to work together and for businesses to function smoothly.
 
 
-2.Identify and describe at least three key milestones in the evolution of software engineering.  
+2. Identify and describe at least three key milestones in the evolution of software engineering.  
 - Development of programming languages: The 1950s saw the advent of early computers, and software engineering began with the development of machine-level programming languages such as Assembly, and high-level programming languages like Fortran and COBOL.
 - Establishment of software engineering as a discipline in the 1960s: As software complexity increased, the term "software crisis" was coined at the NATO Software Engineering Conference in 1968, highlighting the challenges in managing large, complex software projects; this marked the need for systematic approaches to software development, which led to the emergence of software engineering as a discipline.
 - Advent of structured programming in the 1970s: Pioneered by developers like Edsger Dijkstra, structured programming aimed to improve software clarity and reduce errors, the use of control structures such as loops, conditionals, instead of the unstructured "goto" command led to more maintainable and reliable software; the development of structured programming languages like C in the early 1970s played a key role in shaping modern programming practices and software design.
