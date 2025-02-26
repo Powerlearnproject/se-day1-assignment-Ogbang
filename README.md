@@ -43,11 +43,13 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 - Waterfall methodology is limited to initial planning & final delivery, no customer involvement, while Agile methodology encourages continuous feedback from customer throughout development.
 - Waterfall methodoly is high in risk as issues found late in the process can be costly, while Agile methodology has lower risk as frequent testing helps identify issues early.
 - Long – full product is delivered at the end for waterfall methodology, Short – incremental deliveries in each sprint for Agile methodology
+
 Best Scenarios for Waterfall:
 - Projects with well-defined requirements – E.g., building a bridge or manufacturing a product where changes are costly.
 - Regulated industries – E.g., healthcare or banking systems that require strict documentation and compliance.
 - Large-scale projects – E.g., government contracts or aerospace projects where risk needs to be minimized.
 - Short-term projects with a clear scope – E.g., updating an internal HR system with predefined functionality.
+
 Best Scenarios for Agile:
 - Software development with evolving requirements – E.g., a startup developing an innovative mobile app.
 - Customer-driven projects – E.g., an e-commerce website where user feedback is critical.
