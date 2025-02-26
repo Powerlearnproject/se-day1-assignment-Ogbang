@@ -10,13 +10,13 @@ Software engineering is the systematic application of engineering principles, me
 - Software engineering allows companies to automate complex tasks and solve problems more efficiently.
 - Software engineers are responsible for maintaining, updating, and refactoring existing software systems to meet the changing needs of businesses and users, which ensures long-term sustainability and relevance.
 - Software engineers are responsible for implementing robust security measures to protect systems and users from cyber threats.
+- Software engineers develop applications designed to improve collaboration, whether through communication tools, project management software, or file-sharing platforms, making it easier for teams to work together and for businesses to function smoothly.
 
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
-.mastering complexity
-Mastering process
-Mastering machine
-
+- Development of programming languages: The 1950s saw the advent of early computers, and software engineering began with the development of machine-level programming languages such as Assembly, and high-level programming languages like Fortran and COBOL.
+- Establishment of software engineering as a discipline in the 1960s: As software complexity increased, the term "software crisis" was coined at the NATO Software Engineering Conference in 1968, highlighting the challenges in managing large, complex software projects; this marked the need for systematic approaches to software development, which led to the emergence of software engineering as a discipline.
+- Advent of structured programming in the 1970s: Pioneered by developers like Edsger Dijkstra, structured programming aimed to improve software clarity and reduce errors, the use of control structures such as loops, conditionals, instead of the unstructured "goto" command led to more maintainable and reliable software; the development of structured programming languages like C in the early 1970s played a key role in shaping modern programming practices and software design.
 
 List and briefly explain the phases of the Software Development Life Cycle.
  planning - identify the software requirement or purpose and scope.
